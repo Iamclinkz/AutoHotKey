@@ -1,0 +1,15 @@
+﻿!w::Up
+!a::Left
+!s::Down
+!d::Right
+!z::^z
+!x::^x
+!c::^c
+!v::^v
+!t::^t
+!+a::!+a
+!^z::!^z
+CapsLock::^
+!q::!Left
+!e::!Right
+!1::F1
