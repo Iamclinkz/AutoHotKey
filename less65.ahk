@@ -3,6 +3,7 @@
 !s::Down
 !d::Right
 CapsLock::LCtrl
+!+a::!+a
 !q::!Left
 !e::!Right
 !1::F1
