@@ -7,3 +7,5 @@ CapsLock::LCtrl
 !q::!Left
 !e::!Right
 !1::F1
+>+a::+^Left
+>+d::+^Right
