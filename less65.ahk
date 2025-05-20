@@ -19,3 +19,6 @@ CapsLock::LCtrl
 
 !BS::Delete
 
+!j::Home
+!l::End
+
