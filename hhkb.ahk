@@ -36,5 +36,4 @@ CapsLock::LCtrl   ; CapsLock → 左 Ctrl
 !j::Home          ; Alt + J → Home
 !l::End           ; Alt + L → End
 
-!z::#+Left        ; Alt + Z → Win + Shift + ← 把窗口移动到左侧显示器
-!c::#+Right       ; Alt + C → Win + Shift + → 把窗口移动到右侧显示器
+!x::#+Left        ; Alt + X → Win + Shift + ← 把窗口移动到另一侧的显示器
